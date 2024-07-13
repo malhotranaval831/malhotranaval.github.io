@@ -2,7 +2,8 @@
 
 ## About Me
 
-I am passionate about technology and enjoy creating websites using GitHub Pages!
+I am Naval Malhotra. 
+I am an undergraduate Mechanical engineer. Pursuing my degree from GNDEC, Ludhuiana.
 
 ## Projects
 
