@@ -17,5 +17,5 @@ Senior Secondary Education : St. Thomas. Sen. Sec. School - 60%
 E-mail :
 nmmalhotra831@gmail.com
 
-<img src="[PASTE_YOUR_IMAGE_URL_HERE](https://github.com/malhotranaval831/malhotranaval.github.io/blob/main/WhatsApp%20Image%202024-07-13%20at%2022.11.58_06c9ed52.jpg?raw=true)" alt="Profile Picture" />
+<img src="(https://github.com/malhotranaval831/malhotranaval.github.io/blob/main/WhatsApp%20Image%202024-07-13%20at%2022.11.58_06c9ed52.jpg?raw=true)" alt="Profile Picture" />
 
