@@ -16,3 +16,6 @@ Senior Secondary Education : St. Thomas. Sen. Sec. School - 60%
 ## CONTACT 
 E-mail :
 nmmalhotra831@gmail.com
+
+<img src="PASTE_YOUR_IMAGE_URL_HERE" alt="Description of image" />
+
