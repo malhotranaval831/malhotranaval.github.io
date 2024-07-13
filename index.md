@@ -3,7 +3,7 @@
 ## About Me
 
 I am Naval Malhotra. 
-I am an undergraduate Mechanical engineer. Pursuing my degree from GNDEC, Ludhuiana.
+I am an undergraduate Mechanical engineer. Pursuing my degree from GNDEC, Ludhiana.
 
 ## Projects
 
