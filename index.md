@@ -1,12 +1,20 @@
 # Welcome to My Portfolio
 
-## About Me
+## INTRODUCTION
+Greetings
+#I am Naval Malhotra, A undergraduate Mechanical engineer. Pursuing my degree from GNDEC, Ludhiana.
 
-I am Naval Malhotra. 
-I am an undergraduate Mechanical engineer. Pursuing my degree from GNDEC, Ludhiana.
+## SKILL
+# Programming language : 
+#Python
+#MySQL
 
-## Projects
+## EDUCATION
+# Senior Secondary Education 
+#St. Thomas. Sen. Sec. School - 60%
+# Secondary Education
+#St. Thomas. Sen. Sec. School - 70%
 
-- *Project 1:* Description of project 1.
-- *Project 2:* Description of project 2.
--
+## CONTACT 
+# E-mail
+#nmmalhotra831@gmail.com
