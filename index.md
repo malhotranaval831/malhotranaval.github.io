@@ -11,7 +11,7 @@ Programming language :
 
 ## EDUCATION
 Senior Secondary Education : St. Thomas. Sen. Sec. School - 60%
-<br>Secondary Education : St. Thomas. Sen. Sec. School - 70%
+<br>Secondary Education : St. Thomas. Sen. Sec. School - 75%
 
 ## CONTACT 
 E-mail :
